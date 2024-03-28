@@ -1,0 +1,20 @@
+$back-color: #898989;
+
+.header-container {
+    background-color: $back-color;
+    height: 80vh;
+
+    text-align: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+
+    padding: 5vh;
+}
+
+.header-container h1 {
+    padding-top: 20vh;
+}
